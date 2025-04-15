@@ -43,11 +43,3 @@ Test and improve your knowledge of Python’s built-in functions in a fun, quiz-
 
 If you enjoy the game or have suggestions, feel free to open an issue or submit a pull request!
 ```
-
----
-
-Just copy and paste this into your `README.md` file, and it will render nicely on GitHub or any Markdown viewer.
-
-Let me know if you want me to add badges, screenshots, or any other sections!
-
-Sources
