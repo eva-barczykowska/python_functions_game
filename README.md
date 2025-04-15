@@ -1,4 +1,3 @@
-Certainly! Here is your polished README content formatted in Markdown, ready to paste directly into your `README.md` file:
 
 ```markdown
 # 🕹️ A Game to Learn Python Functions
