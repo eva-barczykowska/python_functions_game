@@ -1,9 +1,7 @@
-
-```markdown
 # 🕹️ A Game to Learn Python Functions
 
-Welcome, I'm glad you're here! 
-Let's practise Python’s built-in functions!
+Hey, I'm Ewa and I'm glad you're here.\
+Let's practise some Python’s built-in functions!
 
 ---
 
@@ -13,10 +11,7 @@ Let's practise Python’s built-in functions!
    Clone or download this repository to a directory on your system.
 
 2. **Start the game**  
-   Open your terminal, navigate to the game directory, and run:
-   ```
-   python3 main.py
-   ```
+   Open your terminal, navigate to the game directory, and run command `python3 main.py`:
 
 3. **Choose your mode:**  
    - `-e` for **EASY**:  
@@ -42,4 +37,3 @@ Test and improve your knowledge of Python’s built-in functions in a fun, quiz-
 ---
 
 If you enjoy the game or have suggestions, feel free to open an issue or submit a pull request!
-```
