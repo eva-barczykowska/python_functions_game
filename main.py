@@ -126,9 +126,20 @@ elif mode == 'h':
 
 # TODO version 4
 # next time they play, ask them all the methods that they've previously got wrong
+# for this I guess I'd need user accounts
 
 # TODO version 5
 # make an Alexa skill that uses this game
 
 # TODO version 6
 # decide if provide additionally % or not
+
+# TODO version 7
+# make nice frontend for game
+
+# TODO version 8
+# add different supportive comments like
+# ['Everybody is clapping!', 'You rock!', 'You are the best!', 'Could not say it better myself!', 'Great job!', 'Nice guess!', 'Keep it up!']
+
+# TODO version 9
+# a mobile app version of the game
